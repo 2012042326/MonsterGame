@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed15
+#
+
+projectname: wed15
+vendorid: com.mycompany.wed15
+mainmodule: com.mycompany.wed15.wed15
